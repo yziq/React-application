@@ -1,0 +1,13 @@
+.signup-page{
+    margin: 60px 0;
+}
+
+.field-label{
+    font-size: large;
+    font-weight: 400px;
+    text-align: right;    
+}
+
+.input-box{    
+    width: 75%;
+}

@@ -1,0 +1,23 @@
+.site-card-border-less-wrapper {
+    padding: 50px;
+    background: #ececec;
+}
+.textbody {
+    min-height: 300px;
+    position: relative;
+}
+.textbody .text {
+    min-height: 200px;
+}
+.like{
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 200px;
+    z-index: 999;
+    color: #333333;
+    
+}

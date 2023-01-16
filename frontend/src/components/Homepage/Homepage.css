@@ -1,0 +1,57 @@
+/* ---- Trending---- */
+.trending-panel {
+  width: 98%;
+}
+
+#trending-title {
+  font-size: x-large;
+  font-weight: 350;
+  padding: 0 50px;
+  margin: 25px 0 5px 0;
+}
+
+.scrollPanel {
+  margin: 0 0 0 50px;
+}
+
+.trending-card {
+  top: 5%;
+  background-color: transparent;
+}
+
+
+/* ---- Hot & New ---- */
+.homepage-button-commine {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#homepage-button {
+  margin: 0 20px;
+  padding: 0 30px;
+  background-color: black;
+  border-color: black;
+  font-size: large;
+}
+
+.homepage-card-img {
+  width: 50%;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+
+
+
+@media (max-width: 576px) {
+  .scrollPanel {
+    margin: 0;
+  }
+
+  .content {
+    width: 180%;
+  }
+}

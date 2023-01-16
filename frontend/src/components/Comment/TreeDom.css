@@ -1,0 +1,22 @@
+.w-tree-label {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: #ffffff;
+    border-radius: 30px;
+    padding: 5px 10px;
+}
+
+.w-tree-title {
+    min-height: 40px;
+    padding: 5px 10px 10px 10px;
+    margin-right: 10px;
+    border: 0;
+    color: #333;
+    outline: 0;
+    background-color: transparent;
+    box-shadow: none;
+}
+
+.replyform {
+    width: 100%;
+}

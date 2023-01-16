@@ -1,0 +1,6 @@
+
+.content .ant-card-meta-description {
+  overflow: hidden; 
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}

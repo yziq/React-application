@@ -1,0 +1,11 @@
+.login-page{
+    margin: 60px 0;
+}
+
+#login-button{
+    margin: 0 20px;
+    padding: 0 30px; 
+    background-color: black;
+    border-color: black;
+    font-size: large;
+}
